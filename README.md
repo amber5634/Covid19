@@ -1,12 +1,38 @@
-# Covid19 Analytics , Predictions and  Visualisation
-<!--UL-->
-*Covid 19 analysis in R.
-*The data set I have used is from Kaggle which is taken from Health Ministry Department of India.
-*Plot are made in R for Confirmed Cases, Death Cases, Recovery/Cured Cases and Growth Rate.
-*In CoronaDetailed Visualisation plot are made for trending chart(active,recovered,death) and bar chart(includes top 15 states of India).
-*Please install and download all the required packages.
-*Load all the required packages.
-*It may take some time to download and load package.
-*Be patient.
-*Specify the directory of the dataset file of covid19(csv(comma separated values)). Try downloading the latest or updated covid19 file either from Kaggle or github repository latest or best is to  download the dataset from government site like Ministry of Health.
-*Happy analytics , predictions and Visualisation in R.
+# Covid19 Analytics, Predictions and Visualisation in R
+>You need to install and load all the necessary packages
+
+* tidyverse
+* dplyr
+* plotly
+* ggplot2
+* IRdisplay
+* leaflet
+* leafpop
+* dplyr
+* plyr
+* purrr
+* magrittr
+* rlang
+* knitr
+* anytime
+
+> It might take some time to download the package and load them in your R session.
+
+> Be patient
+
+```
+You need to download the dataset of covid19 from either Kaggle or Ministry of Health Department or any other relevant source.
+```
+```
+Download the current or latest covid19 file to get better  Predictions and Real Time Visualisation.
+```
+
+[Kaggle dataset on Covid19 India](https://www.kaggle.com/sudalairajkumar/covid19-in-india)
+
+[Covid-19 India data  Ministry of Health and Family Welfare (MoHFH) Government of India](https://www.mohfw.gov.in/ )
+
+## This Project contains Plot for Confirmed Cases, Death Cases , Recovered Cases, Growth Rate,Trending Chart, Bar Chart.
+
+> Covid19 Analysis in R
+
+> Happy Coding
