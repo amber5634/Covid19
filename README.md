@@ -34,7 +34,7 @@ Download the current or latest covid19 file to get better  Predictions and Real 
 
 [Covid-19 India data  Ministry of Health and Family Welfare (MoHFH) Government of India](https://www.mohfw.gov.in/ )
 
-## This Project contains Plot for Confirmed Cases, Death Cases , Recovered Cases, Growth Rate,Trending Chart, Bar Chart.
+## This Repository contains Plot for Confirmed Cases, Death Cases , Recovered Cases, Growth Rate,Trending Chart, Bar Chart.
 
 > Covid19 Analysis in R
 
