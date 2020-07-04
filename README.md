@@ -26,6 +26,9 @@ You need to download the dataset of covid19 from either Kaggle or Ministry of He
 ```
 Download the current or latest covid19 file to get better  Predictions and Real Time Visualisation.
 ```
+> TRENDING LINE CHART
+
+![Trend Line Chart](https://github.com/amber5634/Covid19/blob/master/Trend%20Line.png)
 
 [Kaggle dataset on Covid19 India](https://www.kaggle.com/sudalairajkumar/covid19-in-india)
 
