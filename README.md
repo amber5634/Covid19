@@ -38,4 +38,4 @@ Download the current or latest covid19 file to get better  Predictions and Real 
 
 > Covid19 Analysis in R
 
-> Happy Coding
+> Happy Visualisation
