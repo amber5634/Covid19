@@ -37,9 +37,9 @@ Download the current or latest covid19 file to get better  Predictions and Real 
 
 > Trend in Deceased Cases
 
-![newplot (12)](https://user-images.githubusercontent.com/30586187/88217190-cc5e5780-cc7b-11ea-9d31-961f630e1d29.png)
+![newplot (14)](https://user-images.githubusercontent.com/30586187/88218307-7c809000-cc7d-11ea-9f52-28babfacbfe6.png)
 
-> Top States Effected by Covid-19 in INDIA
+> Top States Affected by Covid-19 in INDIA
 
 ![newplot (13)](https://user-images.githubusercontent.com/30586187/88217181-ca949400-cc7b-11ea-960c-99a194c18952.png)
 
